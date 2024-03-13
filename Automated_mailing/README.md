@@ -40,7 +40,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-<h1>Automated Mailing</h1>
+<h1>🌟Automated Mailing</h1>
 <h2>Description</h2>
 This code helps automate the process of sending mail to large audience. it takes email addresses stored in the CSV file
 <h2>languages or Frameworks used</h2>
